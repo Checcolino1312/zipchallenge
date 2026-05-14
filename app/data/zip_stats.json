@@ -1,0 +1,6014 @@
+{
+  "head_to_head": {
+    "total_shared_days": 328,
+    "Francesco_wins": 139,
+    "Pierpaolo_wins": 174,
+    "ties": 15,
+    "only_Francesco": 14,
+    "only_Pierpaolo": 18
+  },
+  "Francesco": {
+    "total_games": 342,
+    "impeccabile_count": 147,
+    "impeccabile_pct": 43.0,
+    "avg_dietrofront": 1.32,
+    "zero_dietrofront": 147,
+    "best_time": "0:04",
+    "best_time_seconds": 4,
+    "best_dietrofront": 0,
+    "best_zip": 200,
+    "best_date": "03/10/25",
+    "worst_time": "1:56",
+    "worst_time_seconds": 116,
+    "worst_dietrofront": 12,
+    "worst_zip": 90,
+    "worst_date": "15/06/25",
+    "avg_time_seconds": 19.81,
+    "avg_time_str": "0:20",
+    "median_time_seconds": 14,
+    "median_time_str": "0:14"
+  },
+  "Pierpaolo": {
+    "total_games": 346,
+    "impeccabile_count": 126,
+    "impeccabile_pct": 36.4,
+    "avg_dietrofront": 2.43,
+    "zero_dietrofront": 126,
+    "best_time": "0:04",
+    "best_time_seconds": 4,
+    "best_dietrofront": 0,
+    "best_zip": 133,
+    "best_date": "28/07/25",
+    "worst_time": "2:53",
+    "worst_time_seconds": 173,
+    "worst_dietrofront": 17,
+    "worst_zip": 76,
+    "worst_date": "01/06/25",
+    "avg_time_seconds": 21.67,
+    "avg_time_str": "0:22",
+    "median_time_seconds": 13,
+    "median_time_str": "0:13"
+  },
+  "daily": [
+    {
+      "zip_num": 57,
+      "date": "13/05/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 59,
+      "date": "15/05/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 35,
+        "time_str": "0:35",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 60,
+      "date": "16/05/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 62,
+      "date": "18/05/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 39,
+        "time_str": "0:39",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 63,
+      "date": "19/05/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 64,
+      "date": "20/05/25",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 65,
+      "date": "21/05/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 66,
+      "date": "22/05/25",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 67,
+      "date": "23/05/25",
+      "Francesco": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 68,
+      "date": "24/05/25",
+      "Francesco": {
+        "seconds": 98,
+        "time_str": "1:38",
+        "impeccabile": false,
+        "dietrofront": 11
+      },
+      "Pierpaolo": {
+        "seconds": 43,
+        "time_str": "0:43",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 69,
+      "date": "25/05/25",
+      "Francesco": {
+        "seconds": 59,
+        "time_str": "0:59",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "Pierpaolo": {
+        "seconds": 34,
+        "time_str": "0:34",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 70,
+      "date": "26/05/25",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 71,
+      "date": "27/05/25",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 72,
+      "date": "28/05/25",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 73,
+      "date": "29/05/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 74,
+      "date": "30/05/25",
+      "Francesco": {
+        "seconds": 35,
+        "time_str": "0:35",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 75,
+      "date": "31/05/25",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 76,
+      "date": "01/06/25",
+      "Francesco": {
+        "seconds": 63,
+        "time_str": "1:03",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "Pierpaolo": {
+        "seconds": 173,
+        "time_str": "2:53",
+        "impeccabile": false,
+        "dietrofront": 17
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 77,
+      "date": "02/06/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 78,
+      "date": "03/06/25",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 79,
+      "date": "04/06/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 80,
+      "date": "05/06/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 81,
+      "date": "06/06/25",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 82,
+      "date": "07/06/25",
+      "Francesco": {
+        "seconds": 87,
+        "time_str": "1:27",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 76,
+        "time_str": "1:16",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 83,
+      "date": "08/06/25",
+      "Francesco": {
+        "seconds": 41,
+        "time_str": "0:41",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 84,
+      "date": "09/06/25",
+      "Francesco": {
+        "seconds": 40,
+        "time_str": "0:40",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "Pierpaolo": {
+        "seconds": 37,
+        "time_str": "0:37",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 85,
+      "date": "10/06/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 86,
+      "date": "11/06/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 87,
+      "date": "12/06/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 88,
+      "date": "13/06/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 89,
+      "date": "14/06/25",
+      "Francesco": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 68,
+        "time_str": "1:08",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 90,
+      "date": "15/06/25",
+      "Francesco": {
+        "seconds": 116,
+        "time_str": "1:56",
+        "impeccabile": false,
+        "dietrofront": 12
+      },
+      "Pierpaolo": {
+        "seconds": 127,
+        "time_str": "2:07",
+        "impeccabile": false,
+        "dietrofront": 13
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 91,
+      "date": "16/06/25",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 92,
+      "date": "17/06/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 93,
+      "date": "18/06/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 94,
+      "date": "19/06/25",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 95,
+      "date": "20/06/25",
+      "Francesco": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 96,
+      "date": "21/06/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 97,
+      "date": "22/06/25",
+      "Francesco": {
+        "seconds": 36,
+        "time_str": "0:36",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 27,
+        "time_str": "0:27",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 98,
+      "date": "23/06/25",
+      "Francesco": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 99,
+      "date": "24/06/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 100,
+      "date": "25/06/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 101,
+      "date": "26/06/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 102,
+      "date": "27/06/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 28,
+        "time_str": "0:28",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 103,
+      "date": "28/06/25",
+      "Francesco": {
+        "seconds": 72,
+        "time_str": "1:12",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 104,
+      "date": "29/06/25",
+      "Francesco": {
+        "seconds": 60,
+        "time_str": "1:00",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "Pierpaolo": {
+        "seconds": 47,
+        "time_str": "0:47",
+        "impeccabile": false,
+        "dietrofront": 10
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 105,
+      "date": "30/06/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 106,
+      "date": "01/07/25",
+      "Francesco": {
+        "seconds": 25,
+        "time_str": "0:25",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 62,
+        "time_str": "1:02",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 107,
+      "date": "02/07/25",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 108,
+      "date": "03/07/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 109,
+      "date": "04/07/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 63,
+        "time_str": "1:03",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 110,
+      "date": "05/07/25",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 111,
+      "date": "06/07/25",
+      "Francesco": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 112,
+      "date": "07/07/25",
+      "Francesco": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 64,
+        "time_str": "1:04",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 113,
+      "date": "08/07/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 114,
+      "date": "09/07/25",
+      "Francesco": {
+        "seconds": 40,
+        "time_str": "0:40",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 115,
+      "date": "10/07/25",
+      "Francesco": {
+        "seconds": 29,
+        "time_str": "0:29",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 33,
+        "time_str": "0:33",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 116,
+      "date": "11/07/25",
+      "Francesco": {
+        "seconds": 29,
+        "time_str": "0:29",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 117,
+      "date": "12/07/25",
+      "Francesco": {
+        "seconds": 49,
+        "time_str": "0:49",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "Pierpaolo": {
+        "seconds": 62,
+        "time_str": "1:02",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 118,
+      "date": "13/07/25",
+      "Francesco": {
+        "seconds": 63,
+        "time_str": "1:03",
+        "impeccabile": false,
+        "dietrofront": 12
+      },
+      "Pierpaolo": {
+        "seconds": 34,
+        "time_str": "0:34",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 119,
+      "date": "14/07/25",
+      "Francesco": {
+        "seconds": 68,
+        "time_str": "1:08",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "Pierpaolo": {
+        "seconds": 30,
+        "time_str": "0:30",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 120,
+      "date": "15/07/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 121,
+      "date": "16/07/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 122,
+      "date": "17/07/25",
+      "Francesco": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 123,
+      "date": "18/07/25",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 29,
+        "time_str": "0:29",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 124,
+      "date": "19/07/25",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 125,
+      "date": "20/07/25",
+      "Francesco": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 48,
+        "time_str": "0:48",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 126,
+      "date": "21/07/25",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 127,
+      "date": "22/07/25",
+      "Francesco": {
+        "seconds": 25,
+        "time_str": "0:25",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 48,
+        "time_str": "0:48",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 128,
+      "date": "23/07/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 129,
+      "date": "24/07/25",
+      "Francesco": {
+        "seconds": 38,
+        "time_str": "0:38",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 130,
+      "date": "25/07/25",
+      "Francesco": {
+        "seconds": 41,
+        "time_str": "0:41",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "Pierpaolo": {
+        "seconds": 32,
+        "time_str": "0:32",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 131,
+      "date": "26/07/25",
+      "Francesco": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 132,
+      "date": "27/07/25",
+      "Francesco": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 51,
+        "time_str": "0:51",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 133,
+      "date": "28/07/25",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 4,
+        "time_str": "0:04",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 134,
+      "date": "29/07/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 135,
+      "date": "30/07/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 136,
+      "date": "31/07/25",
+      "Francesco": {
+        "seconds": 40,
+        "time_str": "0:40",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "Pierpaolo": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 137,
+      "date": "01/08/25",
+      "Francesco": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 139,
+      "date": "03/08/25",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 73,
+        "time_str": "1:13",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 140,
+      "date": "04/08/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 141,
+      "date": "05/08/25",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 142,
+      "date": "06/08/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 143,
+      "date": "07/08/25",
+      "Francesco": {
+        "seconds": 91,
+        "time_str": "1:31",
+        "impeccabile": false,
+        "dietrofront": 10
+      },
+      "Pierpaolo": {
+        "seconds": 126,
+        "time_str": "2:06",
+        "impeccabile": false,
+        "dietrofront": 18
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 144,
+      "date": "08/08/25",
+      "Francesco": {
+        "seconds": 35,
+        "time_str": "0:35",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "Pierpaolo": {
+        "seconds": 38,
+        "time_str": "0:38",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 145,
+      "date": "09/08/25",
+      "Francesco": {
+        "seconds": 28,
+        "time_str": "0:28",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 146,
+      "date": "10/08/25",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 147,
+      "date": "11/08/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 148,
+      "date": "12/08/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 149,
+      "date": "13/08/25",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 150,
+      "date": "14/08/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 45,
+        "time_str": "0:45",
+        "impeccabile": false,
+        "dietrofront": 8
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 151,
+      "date": "15/08/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 153,
+      "date": "17/08/25",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 154,
+      "date": "18/08/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 155,
+      "date": "19/08/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 156,
+      "date": "20/08/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 157,
+      "date": "21/08/25",
+      "Francesco": {
+        "seconds": 106,
+        "time_str": "1:46",
+        "impeccabile": false,
+        "dietrofront": 10
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 158,
+      "date": "22/08/25",
+      "Francesco": {
+        "seconds": 46,
+        "time_str": "0:46",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 49,
+        "time_str": "0:49",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 159,
+      "date": "23/08/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 160,
+      "date": "24/08/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 30,
+        "time_str": "0:30",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 161,
+      "date": "25/08/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 162,
+      "date": "26/08/25",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 163,
+      "date": "27/08/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 164,
+      "date": "28/08/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 165,
+      "date": "29/08/25",
+      "Francesco": {
+        "seconds": 27,
+        "time_str": "0:27",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 166,
+      "date": "30/08/25",
+      "Francesco": {
+        "seconds": 29,
+        "time_str": "0:29",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 167,
+      "date": "31/08/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 168,
+      "date": "01/09/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 169,
+      "date": "02/09/25",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 170,
+      "date": "03/09/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 171,
+      "date": "04/09/25",
+      "Francesco": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 61,
+        "time_str": "1:01",
+        "impeccabile": false,
+        "dietrofront": 8
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 172,
+      "date": "05/09/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 173,
+      "date": "06/09/25",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 174,
+      "date": "07/09/25",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 175,
+      "date": "08/09/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 176,
+      "date": "09/09/25",
+      "Francesco": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 29,
+        "time_str": "0:29",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 177,
+      "date": "10/09/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 178,
+      "date": "11/09/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 179,
+      "date": "12/09/25",
+      "Francesco": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 180,
+      "date": "13/09/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 39,
+        "time_str": "0:39",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 182,
+      "date": "15/09/25",
+      "Francesco": {
+        "seconds": 25,
+        "time_str": "0:25",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 183,
+      "date": "16/09/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 38,
+        "time_str": "0:38",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 184,
+      "date": "17/09/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 185,
+      "date": "18/09/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 186,
+      "date": "19/09/25",
+      "Francesco": {
+        "seconds": 33,
+        "time_str": "0:33",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 187,
+      "date": "20/09/25",
+      "Francesco": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 36,
+        "time_str": "0:36",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 188,
+      "date": "21/09/25",
+      "Francesco": {
+        "seconds": 92,
+        "time_str": "1:32",
+        "impeccabile": false,
+        "dietrofront": 9
+      },
+      "Pierpaolo": {
+        "seconds": 60,
+        "time_str": "1:00",
+        "impeccabile": false,
+        "dietrofront": 9
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 189,
+      "date": "22/09/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 190,
+      "date": "23/09/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 191,
+      "date": "24/09/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 192,
+      "date": "25/09/25",
+      "Francesco": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 193,
+      "date": "26/09/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 194,
+      "date": "27/09/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 195,
+      "date": "28/09/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 196,
+      "date": "29/09/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 197,
+      "date": "30/09/25",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 198,
+      "date": "01/10/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 199,
+      "date": "02/10/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 200,
+      "date": "03/10/25",
+      "Francesco": {
+        "seconds": 4,
+        "time_str": "0:04",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 201,
+      "date": "04/10/25",
+      "Francesco": {
+        "seconds": 29,
+        "time_str": "0:29",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 126,
+        "time_str": "2:06",
+        "impeccabile": false,
+        "dietrofront": 17
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 202,
+      "date": "05/10/25",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 44,
+        "time_str": "0:44",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 203,
+      "date": "06/10/25",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 204,
+      "date": "07/10/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 205,
+      "date": "08/10/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 206,
+      "date": "09/10/25",
+      "Francesco": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 207,
+      "date": "10/10/25",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 208,
+      "date": "11/10/25",
+      "Francesco": {
+        "seconds": 39,
+        "time_str": "0:39",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "Pierpaolo": {
+        "seconds": 32,
+        "time_str": "0:32",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 209,
+      "date": "12/10/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 210,
+      "date": "13/10/25",
+      "Francesco": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 211,
+      "date": "14/10/25",
+      "Francesco": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 212,
+      "date": "15/10/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 213,
+      "date": "16/10/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 214,
+      "date": "17/10/25",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 215,
+      "date": "18/10/25",
+      "Francesco": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 216,
+      "date": "19/10/25",
+      "Francesco": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 217,
+      "date": "20/10/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 218,
+      "date": "21/10/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 219,
+      "date": "22/10/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 220,
+      "date": "23/10/25",
+      "Francesco": {
+        "seconds": 40,
+        "time_str": "0:40",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "Pierpaolo": {
+        "seconds": 32,
+        "time_str": "0:32",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 221,
+      "date": "24/10/25",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 222,
+      "date": "25/10/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 223,
+      "date": "26/10/25",
+      "Francesco": {
+        "seconds": 60,
+        "time_str": "1:00",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "Pierpaolo": {
+        "seconds": 90,
+        "time_str": "1:30",
+        "impeccabile": false,
+        "dietrofront": 14
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 224,
+      "date": "27/10/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 225,
+      "date": "28/10/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 226,
+      "date": "29/10/25",
+      "Francesco": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 227,
+      "date": "30/10/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 228,
+      "date": "31/10/25",
+      "Francesco": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 229,
+      "date": "01/11/25",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 230,
+      "date": "02/11/25",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 44,
+        "time_str": "0:44",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 231,
+      "date": "03/11/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 232,
+      "date": "04/11/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 233,
+      "date": "05/11/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 234,
+      "date": "06/11/25",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 235,
+      "date": "07/11/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 236,
+      "date": "08/11/25",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 74,
+        "time_str": "1:14",
+        "impeccabile": false,
+        "dietrofront": 10
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 237,
+      "date": "09/11/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 39,
+        "time_str": "0:39",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 238,
+      "date": "10/11/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 239,
+      "date": "11/11/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 240,
+      "date": "12/11/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 241,
+      "date": "13/11/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 242,
+      "date": "14/11/25",
+      "Francesco": {
+        "seconds": 30,
+        "time_str": "0:30",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 92,
+        "time_str": "1:32",
+        "impeccabile": false,
+        "dietrofront": 18
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 243,
+      "date": "15/11/25",
+      "Francesco": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 244,
+      "date": "16/11/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 245,
+      "date": "17/11/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 246,
+      "date": "18/11/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 247,
+      "date": "19/11/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 248,
+      "date": "20/11/25",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 249,
+      "date": "21/11/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 250,
+      "date": "22/11/25",
+      "Francesco": {
+        "seconds": 72,
+        "time_str": "1:12",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 37,
+        "time_str": "0:37",
+        "impeccabile": false,
+        "dietrofront": 10
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 251,
+      "date": "23/11/25",
+      "Francesco": {
+        "seconds": 106,
+        "time_str": "1:46",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 107,
+        "time_str": "1:47",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 252,
+      "date": "24/11/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 253,
+      "date": "25/11/25",
+      "Francesco": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 254,
+      "date": "26/11/25",
+      "Francesco": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 255,
+      "date": "27/11/25",
+      "Francesco": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 256,
+      "date": "28/11/25",
+      "Francesco": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 257,
+      "date": "29/11/25",
+      "Francesco": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 48,
+        "time_str": "0:48",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 258,
+      "date": "30/11/25",
+      "Francesco": {
+        "seconds": 45,
+        "time_str": "0:45",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 259,
+      "date": "01/12/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 260,
+      "date": "02/12/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 261,
+      "date": "03/12/25",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 262,
+      "date": "04/12/25",
+      "Francesco": {
+        "seconds": 42,
+        "time_str": "0:42",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 263,
+      "date": "05/12/25",
+      "Francesco": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 264,
+      "date": "06/12/25",
+      "Francesco": {
+        "seconds": 51,
+        "time_str": "0:51",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 48,
+        "time_str": "0:48",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 265,
+      "date": "07/12/25",
+      "Francesco": {
+        "seconds": 65,
+        "time_str": "1:05",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 73,
+        "time_str": "1:13",
+        "impeccabile": false,
+        "dietrofront": 8
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 266,
+      "date": "08/12/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 267,
+      "date": "09/12/25",
+      "Francesco": {
+        "seconds": 34,
+        "time_str": "0:34",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 28,
+        "time_str": "0:28",
+        "impeccabile": false,
+        "dietrofront": 8
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 268,
+      "date": "10/12/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 269,
+      "date": "11/12/25",
+      "Francesco": {
+        "seconds": 53,
+        "time_str": "0:53",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 270,
+      "date": "12/12/25",
+      "Francesco": {
+        "seconds": 47,
+        "time_str": "0:47",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 271,
+      "date": "13/12/25",
+      "Francesco": {
+        "seconds": 46,
+        "time_str": "0:46",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 120,
+        "time_str": "2:00",
+        "impeccabile": false,
+        "dietrofront": 18
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 272,
+      "date": "14/12/25",
+      "Francesco": {
+        "seconds": 34,
+        "time_str": "0:34",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 33,
+        "time_str": "0:33",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 273,
+      "date": "15/12/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 274,
+      "date": "16/12/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 275,
+      "date": "17/12/25",
+      "Francesco": {
+        "seconds": 36,
+        "time_str": "0:36",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 276,
+      "date": "18/12/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 277,
+      "date": "19/12/25",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 278,
+      "date": "20/12/25",
+      "Francesco": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 27,
+        "time_str": "0:27",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 279,
+      "date": "21/12/25",
+      "Francesco": {
+        "seconds": 53,
+        "time_str": "0:53",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 40,
+        "time_str": "0:40",
+        "impeccabile": false,
+        "dietrofront": 8
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 280,
+      "date": "22/12/25",
+      "Francesco": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 281,
+      "date": "23/12/25",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 28,
+        "time_str": "0:28",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 282,
+      "date": "24/12/25",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 283,
+      "date": "25/12/25",
+      "Francesco": {
+        "seconds": 25,
+        "time_str": "0:25",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 284,
+      "date": "26/12/25",
+      "Francesco": {
+        "seconds": 27,
+        "time_str": "0:27",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 285,
+      "date": "27/12/25",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 286,
+      "date": "28/12/25",
+      "Francesco": {
+        "seconds": 28,
+        "time_str": "0:28",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 287,
+      "date": "29/12/25",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 288,
+      "date": "30/12/25",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 289,
+      "date": "31/12/25",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 290,
+      "date": "01/01/26",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 291,
+      "date": "02/01/26",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 292,
+      "date": "03/01/26",
+      "Francesco": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 27,
+        "time_str": "0:27",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 293,
+      "date": "04/01/26",
+      "Francesco": {
+        "seconds": 42,
+        "time_str": "0:42",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "Pierpaolo": {
+        "seconds": 40,
+        "time_str": "0:40",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 294,
+      "date": "05/01/26",
+      "Francesco": {
+        "seconds": 37,
+        "time_str": "0:37",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 295,
+      "date": "06/01/26",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 296,
+      "date": "07/01/26",
+      "Francesco": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 297,
+      "date": "08/01/26",
+      "Francesco": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 298,
+      "date": "09/01/26",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 299,
+      "date": "10/01/26",
+      "Francesco": {
+        "seconds": 27,
+        "time_str": "0:27",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 64,
+        "time_str": "1:04",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 300,
+      "date": "11/01/26",
+      "Francesco": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 61,
+        "time_str": "1:01",
+        "impeccabile": false,
+        "dietrofront": 9
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 301,
+      "date": "12/01/26",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 302,
+      "date": "13/01/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 303,
+      "date": "14/01/26",
+      "Francesco": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 304,
+      "date": "15/01/26",
+      "Francesco": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 35,
+        "time_str": "0:35",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 305,
+      "date": "16/01/26",
+      "Francesco": {
+        "seconds": 30,
+        "time_str": "0:30",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 306,
+      "date": "17/01/26",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 307,
+      "date": "18/01/26",
+      "Francesco": {
+        "seconds": 37,
+        "time_str": "0:37",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 308,
+      "date": "19/01/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 309,
+      "date": "20/01/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 310,
+      "date": "21/01/26",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 311,
+      "date": "22/01/26",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 312,
+      "date": "23/01/26",
+      "Francesco": {
+        "seconds": 39,
+        "time_str": "0:39",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 46,
+        "time_str": "0:46",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 313,
+      "date": "24/01/26",
+      "Francesco": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 314,
+      "date": "25/01/26",
+      "Francesco": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 315,
+      "date": "26/01/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 4,
+        "time_str": "0:04",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 316,
+      "date": "27/01/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 317,
+      "date": "28/01/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 318,
+      "date": "29/01/26",
+      "Francesco": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 319,
+      "date": "30/01/26",
+      "Francesco": {
+        "seconds": 30,
+        "time_str": "0:30",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": null
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 320,
+      "date": "31/01/26",
+      "Francesco": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 40,
+        "time_str": "0:40",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 321,
+      "date": "01/02/26",
+      "Francesco": {
+        "seconds": 33,
+        "time_str": "0:33",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 322,
+      "date": "02/02/26",
+      "Francesco": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 323,
+      "date": "03/02/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 324,
+      "date": "04/02/26",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": null
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 325,
+      "date": "05/02/26",
+      "Francesco": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 33,
+        "time_str": "0:33",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 326,
+      "date": "06/02/26",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 327,
+      "date": "07/02/26",
+      "Francesco": {
+        "seconds": 30,
+        "time_str": "0:30",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 35,
+        "time_str": "0:35",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 328,
+      "date": "08/02/26",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 329,
+      "date": "09/02/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 330,
+      "date": "10/02/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": false,
+        "dietrofront": null
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 331,
+      "date": "11/02/26",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 332,
+      "date": "12/02/26",
+      "Francesco": {
+        "seconds": 32,
+        "time_str": "0:32",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 333,
+      "date": "13/02/26",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 334,
+      "date": "14/02/26",
+      "Francesco": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 335,
+      "date": "15/02/26",
+      "Francesco": {
+        "seconds": 41,
+        "time_str": "0:41",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 111,
+        "time_str": "1:51",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 336,
+      "date": "16/02/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 337,
+      "date": "17/02/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 338,
+      "date": "18/02/26",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 339,
+      "date": "19/02/26",
+      "Francesco": {
+        "seconds": 25,
+        "time_str": "0:25",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 340,
+      "date": "20/02/26",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 341,
+      "date": "21/02/26",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 342,
+      "date": "22/02/26",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 343,
+      "date": "23/02/26",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 344,
+      "date": "24/02/26",
+      "Francesco": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 345,
+      "date": "25/02/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 346,
+      "date": "26/02/26",
+      "Francesco": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 97,
+        "time_str": "1:37",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 347,
+      "date": "27/02/26",
+      "Francesco": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 54,
+        "time_str": "0:54",
+        "impeccabile": false,
+        "dietrofront": 8
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 348,
+      "date": "28/02/26",
+      "Francesco": {
+        "seconds": 34,
+        "time_str": "0:34",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 349,
+      "date": "01/03/26",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 57,
+        "time_str": "0:57",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 350,
+      "date": "02/03/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 351,
+      "date": "03/03/26",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 352,
+      "date": "04/03/26",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 353,
+      "date": "05/03/26",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 354,
+      "date": "06/03/26",
+      "Francesco": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 49,
+        "time_str": "0:49",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 355,
+      "date": "07/03/26",
+      "Francesco": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 47,
+        "time_str": "0:47",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 356,
+      "date": "08/03/26",
+      "Francesco": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 44,
+        "time_str": "0:44",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 357,
+      "date": "09/03/26",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 358,
+      "date": "10/03/26",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 359,
+      "date": "11/03/26",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 33,
+        "time_str": "0:33",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 360,
+      "date": "12/03/26",
+      "Francesco": {
+        "seconds": 28,
+        "time_str": "0:28",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 78,
+        "time_str": "1:18",
+        "impeccabile": false,
+        "dietrofront": 16
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 361,
+      "date": "13/03/26",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 362,
+      "date": "14/03/26",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 363,
+      "date": "15/03/26",
+      "Francesco": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 364,
+      "date": "16/03/26",
+      "Francesco": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 4,
+        "time_str": "0:04",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 365,
+      "date": "17/03/26",
+      "Francesco": {
+        "seconds": 24,
+        "time_str": "0:24",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 366,
+      "date": "18/03/26",
+      "Francesco": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 367,
+      "date": "19/03/26",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 368,
+      "date": "20/03/26",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 369,
+      "date": "21/03/26",
+      "Francesco": {
+        "seconds": 12,
+        "time_str": "0:12",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 370,
+      "date": "22/03/26",
+      "Francesco": {
+        "seconds": 32,
+        "time_str": "0:32",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 371,
+      "date": "23/03/26",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": null
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 372,
+      "date": "24/03/26",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 373,
+      "date": "25/03/26",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 66,
+        "time_str": "1:06",
+        "impeccabile": false,
+        "dietrofront": 9
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 374,
+      "date": "26/03/26",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 375,
+      "date": "27/03/26",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 376,
+      "date": "28/03/26",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 377,
+      "date": "29/03/26",
+      "Francesco": {
+        "seconds": 35,
+        "time_str": "0:35",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 75,
+        "time_str": "1:15",
+        "impeccabile": false,
+        "dietrofront": 13
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 378,
+      "date": "30/03/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 379,
+      "date": "31/03/26",
+      "Francesco": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 380,
+      "date": "01/04/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 381,
+      "date": "02/04/26",
+      "Francesco": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 383,
+      "date": "04/04/26",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    },
+    {
+      "zip_num": 384,
+      "date": "05/04/26",
+      "Francesco": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 385,
+      "date": "06/04/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 386,
+      "date": "07/04/26",
+      "Francesco": {
+        "seconds": 4,
+        "time_str": "0:04",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 387,
+      "date": "08/04/26",
+      "Francesco": {
+        "seconds": 26,
+        "time_str": "0:26",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 388,
+      "date": "09/04/26",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 25,
+        "time_str": "0:25",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 389,
+      "date": "10/04/26",
+      "Francesco": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "Pierpaolo": {
+        "seconds": 29,
+        "time_str": "0:29",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 390,
+      "date": "11/04/26",
+      "Francesco": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 78,
+        "time_str": "1:18",
+        "impeccabile": false,
+        "dietrofront": 12
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 391,
+      "date": "12/04/26",
+      "Francesco": {
+        "seconds": 32,
+        "time_str": "0:32",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "Pierpaolo": {
+        "seconds": 70,
+        "time_str": "1:10",
+        "impeccabile": false,
+        "dietrofront": 11
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 392,
+      "date": "13/04/26",
+      "Francesco": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 393,
+      "date": "14/04/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 394,
+      "date": "15/04/26",
+      "Francesco": {
+        "seconds": 17,
+        "time_str": "0:17",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 395,
+      "date": "16/04/26",
+      "Francesco": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 396,
+      "date": "17/04/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 397,
+      "date": "18/04/26",
+      "Francesco": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 15,
+        "time_str": "0:15",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 399,
+      "date": "20/04/26",
+      "Francesco": {
+        "seconds": 4,
+        "time_str": "0:04",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 400,
+      "date": "21/04/26",
+      "Francesco": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 401,
+      "date": "22/04/26",
+      "Francesco": {
+        "seconds": 25,
+        "time_str": "0:25",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 25,
+        "time_str": "0:25",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 402,
+      "date": "23/04/26",
+      "Francesco": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 403,
+      "date": "24/04/26",
+      "Francesco": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": null
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 404,
+      "date": "25/04/26",
+      "Francesco": null,
+      "Pierpaolo": {
+        "seconds": 36,
+        "time_str": "0:36",
+        "impeccabile": false,
+        "dietrofront": 7
+      },
+      "winner": "solo_Pierpaolo"
+    },
+    {
+      "zip_num": 405,
+      "date": "26/04/26",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 23,
+        "time_str": "0:23",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 406,
+      "date": "27/04/26",
+      "Francesco": {
+        "seconds": 6,
+        "time_str": "0:06",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 407,
+      "date": "28/04/26",
+      "Francesco": {
+        "seconds": 11,
+        "time_str": "0:11",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 408,
+      "date": "29/04/26",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "pareggio"
+    },
+    {
+      "zip_num": 409,
+      "date": "30/04/26",
+      "Francesco": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 7,
+        "time_str": "0:07",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 410,
+      "date": "01/05/26",
+      "Francesco": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 411,
+      "date": "02/05/26",
+      "Francesco": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "Pierpaolo": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 412,
+      "date": "03/05/26",
+      "Francesco": {
+        "seconds": 18,
+        "time_str": "0:18",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 34,
+        "time_str": "0:34",
+        "impeccabile": false,
+        "dietrofront": 5
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 413,
+      "date": "04/05/26",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 14,
+        "time_str": "0:14",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 414,
+      "date": "05/05/26",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 415,
+      "date": "06/05/26",
+      "Francesco": {
+        "seconds": 13,
+        "time_str": "0:13",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "winner": "Pierpaolo"
+    },
+    {
+      "zip_num": 416,
+      "date": "07/05/26",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 27,
+        "time_str": "0:27",
+        "impeccabile": false,
+        "dietrofront": 4
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 417,
+      "date": "08/05/26",
+      "Francesco": {
+        "seconds": 22,
+        "time_str": "0:22",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 39,
+        "time_str": "0:39",
+        "impeccabile": false,
+        "dietrofront": 9
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 418,
+      "date": "09/05/26",
+      "Francesco": {
+        "seconds": 31,
+        "time_str": "0:31",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "Pierpaolo": {
+        "seconds": 33,
+        "time_str": "0:33",
+        "impeccabile": false,
+        "dietrofront": 6
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 419,
+      "date": "10/05/26",
+      "Francesco": {
+        "seconds": 20,
+        "time_str": "0:20",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 21,
+        "time_str": "0:21",
+        "impeccabile": false,
+        "dietrofront": 2
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 420,
+      "date": "11/05/26",
+      "Francesco": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 5,
+        "time_str": "0:05",
+        "impeccabile": false,
+        "dietrofront": null
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 421,
+      "date": "12/05/26",
+      "Francesco": {
+        "seconds": 8,
+        "time_str": "0:08",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": {
+        "seconds": 16,
+        "time_str": "0:16",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 422,
+      "date": "13/05/26",
+      "Francesco": {
+        "seconds": 10,
+        "time_str": "0:10",
+        "impeccabile": false,
+        "dietrofront": 1
+      },
+      "Pierpaolo": {
+        "seconds": 19,
+        "time_str": "0:19",
+        "impeccabile": false,
+        "dietrofront": 3
+      },
+      "winner": "Francesco"
+    },
+    {
+      "zip_num": 423,
+      "date": "14/05/26",
+      "Francesco": {
+        "seconds": 9,
+        "time_str": "0:09",
+        "impeccabile": true,
+        "dietrofront": 0
+      },
+      "Pierpaolo": null,
+      "winner": "solo_Francesco"
+    }
+  ]
+}
